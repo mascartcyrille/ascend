@@ -4,5 +4,5 @@
 ################################################################################
 rm(list=ls())
 
-# source("article_search.R")
+source("article_search.R")
 # source("test_keras.R")
